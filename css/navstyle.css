@@ -20,7 +20,6 @@ body{
 }
 
 #logo{
-    margin-top: 10px;
     float: left;
     line-height: 70px;
     padding-left: 60px;
@@ -30,7 +29,7 @@ body{
     float: right;
     list-style: none;
     margin-right: 40px;
-    margin-top: .4cm;
+    margin-top: .15cm;
     position: relative;
 }
 
@@ -70,7 +69,7 @@ body{
 }
 
 .header nav ul li:hover > ul{
-    top: 60px;
+    top: 55px;
     opacity: 1;
     visibility: visible;
 }
@@ -86,4 +85,12 @@ body{
 
 .header nav ul ul li a{
     line-height: 50px;
+}
+
+.navbar-toggler{
+    margin-top: 30px;
+    margin-right: 1em;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #cacaca,
+                0 0 5px #ffffff;
 }

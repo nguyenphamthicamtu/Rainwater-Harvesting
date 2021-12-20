@@ -4,9 +4,17 @@
 
 .body h1{
     text-align: center;
+    margin-top: -.3cm;
     position: inherit;
     color: white;
-    margin-top: -2.6cm;
+    font-weight: bolder;
+}
+
+#slogan{
+    text-align: center;
+    margin-top: -2.65cm;
+    position: inherit;
+    color: white;
     font-weight: bolder;
     font-size: 50px;
 }
@@ -23,6 +31,7 @@
     text-align: center;
     font-size: 50px;
     padding-top: 50px;
+    padding-bottom: 25px;
     color: #1F2833;
 }
 
@@ -44,6 +53,7 @@
     text-align: center;
     font-size: 50px;
     padding-top: 50px;
+    padding-bottom: 10px;
     color: #1F2833;
 }
 
@@ -60,7 +70,7 @@
 }
 
 .benefits img{
-    margin-top: 40px;
+    margin-top: 50px;
     width: 50%;
     display: block;
     margin-left: auto;
@@ -75,7 +85,7 @@
 }
 
 .members p{
-    margin-top: 20px;
+    margin-top: 25px;
     display: inline-block;
     font-size: 20px;
     color: #1F2833;
@@ -84,13 +94,4 @@
     border-style: solid;
     padding: 5px 20px;
     margin-left: 32px;
-}
-
-.contact{
-    background: #1F2833;
-    padding-bottom: 14px;
-}
-
-.contact p{
-    font-size: 20px;
 }

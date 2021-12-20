@@ -26,10 +26,10 @@ app.config(function($routeProvider) {
         });
 });
 
-app.controller("mainCtrl", function($scope, $http) {
+// app.controller("mainCtrl", function($scope, $http) {
 
-    $http.get("json.json").then(function(response) {
-        $scope.Data = response.data;
-        return $scope.Data;
-    });
-});
+//     $http.get("json.json").then(function(response) {
+//         $scope.Data = response.data;
+//         return $scope.Data;
+//     });
+// });
