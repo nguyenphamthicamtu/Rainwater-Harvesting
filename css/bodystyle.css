@@ -1,0 +1,96 @@
+.body img{
+    width: 100%;
+}
+
+.body h1{
+    text-align: center;
+    position: inherit;
+    color: white;
+    margin-top: -2.6cm;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.body p{
+    position: inherit;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: -.25cm;
+}
+
+.intro h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+    color: #1F2833;
+}
+
+.intro p{
+    padding: 0 50px;
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.intro img{
+    margin-top: 40px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.benefits h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+    color: #1F2833;
+}
+
+.benefits ul li{
+    color: #1F2833;
+    font-size: 20px;
+    display: list-item;
+    width: 30%;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.benefits img{
+    margin-top: 40px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.members h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+    color: #1F2833;
+}
+
+.members p{
+    margin-top: 20px;
+    display: inline-block;
+    font-size: 20px;
+    color: #1F2833;
+    border: #1F2833;
+    border-radius: 20px;
+    border-style: solid;
+    padding: 5px 20px;
+    margin-left: 32px;
+}
+
+.contact{
+    background: #1F2833;
+    padding-bottom: 14px;
+}
+
+.contact p{
+    font-size: 20px;
+}
