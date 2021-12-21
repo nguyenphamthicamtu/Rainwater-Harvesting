@@ -20,7 +20,7 @@ Project title: Rainwater Harvesting
          
 # Github report link:
 
-eProject published at: https://github.com/Aditerx/Rainwater-Harvesting
+eProject published at: https://aditerx.github.io/Rainwater-Harvesting/
 
 eProject report link at: https://github.com/Aditerx/Rainwater-Harvesting/tree/Web/report
 
