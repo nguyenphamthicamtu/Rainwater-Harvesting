@@ -24,4 +24,4 @@ eProject published at: https://github.com/Aditerx/Rainwater-Harvesting
 
 eProject report link at: https://github.com/Aditerx/Rainwater-Harvesting/tree/Web/report
 
-         <p align="center">Thank you for spending your time to look at our work.</p>
+                                    Thank you for spending your time to look at our work.
