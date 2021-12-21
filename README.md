@@ -17,13 +17,10 @@ Project title: Rainwater Harvesting
          Nguyen Hai Hoang (HoangNHTS2109017@fpt.edu.vn) Student1339262
          
          Nguyen Pham Thi Cam Tu (TuPTNCTS2109018@fpt.edu.vn) Student1335967
-============================
 
 # github report link:
 eProject published at: 
 
 eProject report link at: 
-
-============================
 
 Thank you for spending your time to look at our work.
