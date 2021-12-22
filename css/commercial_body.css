@@ -1,0 +1,80 @@
+.com_thumbnail img{
+    width: 100%;
+}
+
+.com_thumbnail p{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 15px;
+    color: #1F2833;
+}
+
+.com_thumbnail h1{
+    text-align: center;
+    margin-top: 50px;
+    color: #1F2833;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.com_intro p{
+    justify-content: center;
+    padding: 0 50px;
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.com_intro img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.com_explain h1{
+    text-align: center;
+    margin-top: 50px;
+    color: #1F2833;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.com_explain_methods p{
+    justify-content: center;
+    padding: 0 50px;
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.com_sur_explain h2{
+    color: #1F2833;
+    font-weight: bolder;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.com_sur_explain p{
+    justify-content: center;
+    padding: 0 50px;
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.com_sur_explain img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.com_sur_pros h2{
+    color: #1F2833;
+    font-weight: bolder;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
