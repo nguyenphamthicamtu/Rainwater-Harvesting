@@ -13,19 +13,19 @@ app.config(function($routeProvider) {
 
         })
         .when("/com",{
-            templateUrl: "commercial.html",
+            templateUrl: "commercial.html"
 
-        // })
-        // .when("/mets",{
-        //     templateUrl: "method.html",
+        })
+        .when("/mets",{
+            templateUrl: "method.html"
 
-        // })
-        // .when("/dev",{
-        //     templateUrl: "development.html",
+        })
+        .when("/devs",{
+            templateUrl: "development.html"
 
-        // })
-        // .when("/cont",{
-        //     templateUrl: "contact.html",
+        })
+        .when("/cont",{
+            templateUrl: "contact.html"
 
         });
 });
