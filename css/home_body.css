@@ -1,12 +1,4 @@
-#text{
-    position: relative; 
-    transition: .5s ease;
-    opacity:0;
-}
-  
-.thumbnail:hover #text{
-    opacity: 1;
-}
+
 
 .body img{
     width: 100%;
