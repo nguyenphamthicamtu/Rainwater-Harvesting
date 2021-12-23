@@ -4,25 +4,29 @@ app.config(function($routeProvider) {
 
     $routeProvider
 
+        .when("/",{
+            templateUrl: "index.html"
+
+        })
         .when("/res",{
-            templateUrl: "residential.html",
-            controller: "addCtrl"
+            templateUrl: "residential.html"
+
         })
         .when("/com",{
             templateUrl: "commercial.html",
-            controller: "addCtrl"
-        })
-        .when("/mets",{
-            templateUrl: "methods.html",
-            controller: "addCtrl"
-        })
-        .when("/dev",{
-            templateUrl: "development.html",
-            controller: "addCtrl"
-        })
-        .when("/cont",{
-            templateUrl: "contact_us.html",
-            controller: "addCtrl"
+
+        // })
+        // .when("/mets",{
+        //     templateUrl: "method.html",
+
+        // })
+        // .when("/dev",{
+        //     templateUrl: "development.html",
+
+        // })
+        // .when("/cont",{
+        //     templateUrl: "contact.html",
+
         });
 });
 

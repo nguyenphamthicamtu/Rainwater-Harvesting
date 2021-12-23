@@ -1,0 +1,75 @@
+.res_thumbnail p{
+    padding: 10px 50px 0px 50px;
+    font-size: 15px;
+    color: #1F2833;
+}
+
+.res_thumbnail h1{
+    text-align: center;
+    margin-top: 50px;
+    color: #1F2833;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.res_intro p{
+    justify-content: center;
+    padding: 0 50px;
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.res_intro img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.res_explain h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    color: #1F2833;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.res_explain_methods p{
+    justify-content: center;
+    padding: 0 50px;
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.res_sur_explain h2{
+    color: #1F2833;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.res_sur_explain p{
+    justify-content: center;
+    padding: 0 50px;
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.res_sur_explain img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.res_sur_pros h2{
+    color: #1F2833;
+    font-weight: bolder;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
